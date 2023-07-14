@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xingyuecode
+- 👋 Hi, I’m Xingyuecode
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: my phone number: +86 13210240135
